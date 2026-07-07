@@ -5,7 +5,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live%20Dashboard-success?style=for-the-badge)
-![Week](https://img.shields.io/badge/Reporting%20Week-53-orange?style=for-the-badge)
 
 ---
 
