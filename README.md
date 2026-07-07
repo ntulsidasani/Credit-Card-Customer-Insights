@@ -35,43 +35,6 @@ Every great dashboard needs a solid engine under the hood. I used **DAX (Data An
 
 ---
 
-## 📊 Scoreboard — Week 53 Insights
-
-### ⚡ Week-over-Week Power-Ups
-| Metric | Change |
-|---|---|
-| 💵 Revenue | 🔼 **+28.8%** |
-| 🔁 Total Transaction Amount & Count | 🔼 **+xx% / +xx%** |
-| 👥 Customer Count | 🔼 **+xx%** |
-
-### 🗺️ Year-to-Date Leaderboard
-| Metric | Value |
-|---|---|
-| 💰 Overall Revenue | **$57M** |
-| 📈 Total Interest Earned | **$8M** |
-| 💳 Total Transaction Amount | **$46M** |
-| 🚹 Revenue — Male Customers | **$31M** |
-| 🚺 Revenue — Female Customers | **$26M** |
-| 🥇 Top Cards (Blue & Silver) | **93%** of all transactions |
-| 📍 Top States (TX, NY, CA) | **68%** of overall activity |
-| ✅ Activation Rate | **57.5%** |
-| ⚠️ Delinquency Rate | **6.06%** |
-
----
-
-## 🚀 Next Quest (Next Steps)
-
-### 📊 Expand Analysis
-- Level up segmentation with more demographic variables like location and purchase history
-- Build predictive models to forecast future revenue trends from historical data
-
-### 🔗 Enhance Visualization
-- Craft dynamic Power BI dashboards visualizing age and income distributions alongside revenue trends for a richer, more interactive experience
-
-### 🔄 Automate Reporting
-- Deploy automated reports and real-time alerts to keep key metrics and trends always in view
-
----
 
 <div align="center">
 
